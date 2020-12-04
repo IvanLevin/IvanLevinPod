@@ -7,8 +7,10 @@
 
 import Foundation
 
-class HelloWorldCheckOne {
-    func getHelloWorld() -> String {
+public class HelloWorld {
+    
+    public init() { }
+    public func getHelloWorld() -> String {
         "Hello world!"
     }
 }
