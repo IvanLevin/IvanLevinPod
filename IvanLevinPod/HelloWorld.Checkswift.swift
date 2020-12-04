@@ -7,7 +7,7 @@
 
 import Foundation
 
-class HelloWorld {
+class HelloWorldCheckOne {
     func getHelloWorld() -> String {
         "Hello world!"
     }
